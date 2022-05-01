@@ -72,7 +72,6 @@ body{
 .insta-logout{
     color: #0095f6;
     margin-top: 1rem;
-
 }
 .not-account{
     color: rgb(160, 160, 160);
@@ -89,6 +88,9 @@ body{
     justify-content: center;
     width: 100%;
     padding: 1.3rem 0;
+}
+.baixar{
+    font-weight: bold;
 }
 .download{
     display: flex;
